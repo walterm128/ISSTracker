@@ -1,7 +1,7 @@
 # ISSTracker
-ISSTracker real time
+ISS Tracker real time
 
-https://walterm128.github.io/ISSTracker/
+https://walterm122.itch.io/iss-tracker
 
 ![alt](ISSTracker.jpg)
 
